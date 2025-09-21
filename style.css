@@ -43,16 +43,6 @@ header h1 {
     background-color: lightblue;
     color: darkblue;
 }
-.hero img {
-    padding: 5px;
-    display: block;
-    margin-top: 35px;
-    margin-left: 500px;
-    width: 40%;
-    border-radius: 100%;
-    border: solid 2px;
-    position: absolute;
-}
 
 .hero h1{
     text-align: left;
@@ -231,4 +221,5 @@ span {
     .info {
         width: 100%;
     }
+
 }
